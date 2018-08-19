@@ -1,0 +1,39 @@
+body {
+	background-image: url('../images/3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+#main-block {
+	float: left;
+	width: 60%;
+	height: 550px;
+	padding: 20px; 
+	background-color: #fff;
+	border-radius: 20px;
+	box-sizing: border-box;	
+	
+	
+}
+
+#sidebar {
+	float: right;
+	width: 38%;
+	height: 550px;
+	padding: 20px; 
+	background-color: #fff;
+	border-radius: 20px;
+	box-sizing: border-box;
+	
+}
+
+#product-form {
+	margin: auto; 
+	margin-top: 50px; 
+}
+
+.float-right {
+	float: right;
+}

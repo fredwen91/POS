@@ -1,0 +1,22 @@
+body {
+	background-image: url('../images/3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.container {
+	width: 300px;
+	height: 250px;
+	background-color: rgba(255,255,255, 0.2);
+	margin: auto;
+	margin-top: 230px;
+	border-radius: 20px;
+	padding-top: 20px;
+}
+
+.myform {
+	margin-top: 20px;
+}
+
